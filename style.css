@@ -1,0 +1,61 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+.navbar-brand{
+    display: flex;
+}
+.navbar{
+    background-color: Gradient/Purple/gradient 16;
+}
+button {
+    padding: 5px 30px;
+}
+*{
+    background-color: Gradient/Purple/gradient 16;
+}
+.navbar-brand{
+    padding-right:600px ;}
+.nav-item{
+    padding: 20px;
+}
+ .container-fluid{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+ }
+ .img{
+    justify-content: right;
+    display: flex;
+    width: 50%;
+ }
+ .display section h3{
+    color: rgb(9, 9, 92);
+ }
+ .section{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+ }
+.paragraph{
+    padding-bottom: 30px;
+    color: rgb(4, 4, 70);
+ }
+ .h1{
+    padding-bottom: 10px;
+    color: rgb(165, 10, 165);
+ }
+ .display{
+    display: flex;
+  
+
+
+
+ }
+ body{
+    background-image: url(download.jpg) ; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
